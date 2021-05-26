@@ -49,7 +49,7 @@ dist_html_DATA = README.md
 streamdir = $(datadir)/janus/streams
 stream_DATA = $(NULL)
 
-recordingsdir = videos/recordings
+recordingsdir = /videos
 recordings_DATA = $(NULL)
 
 luadir = $(datadir)/janus/lua
